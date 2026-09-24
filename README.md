@@ -9,6 +9,9 @@ The repository contains the main estimation routines, Monte Carlo simulations, a
 * `functions for nonlinear.R`
   Core estimation and clustering routines. The main functions are `GFE_est()` and `GFE_est_cf()`.
 
+* `DGP truncated.R`
+  Code for data generation processes.
+
 * `simulation replication.R`
   Monte Carlo simulation code for the logit and probit designs.
 
