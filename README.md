@@ -1,5 +1,4 @@
 # glmcluster
-# glmcluster
 
 Replication code for Inference in non-linear panel data after discretizing unobserved heterogeneity
 
